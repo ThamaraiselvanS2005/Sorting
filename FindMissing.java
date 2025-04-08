@@ -1,3 +1,5 @@
+package Sorting;
+
 class FindMissing {
     public static void main(String[] args) {
         int[] arr = {6, 3, 2, 4, 0, 1, 5};
