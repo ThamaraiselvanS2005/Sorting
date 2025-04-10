@@ -4,3 +4,4 @@ types of sorting in dsa
 2.Selection sort
 3.Insertion sort
 4.Cyclic sort
+  problems on cyclic sort
